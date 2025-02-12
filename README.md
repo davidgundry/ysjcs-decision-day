@@ -1,5 +1,4 @@
-# Decision Day 2024-05-10
-
+# Decision Day
 This repository contains materials for Decision Day for Computing programmes. This should be downloaded to the Desktop of the computers that will be used for the Decision Day activities.
 
 ## Setup
